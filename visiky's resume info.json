@@ -1,0 +1,108 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "hidden": true
+    },
+    "profile": {
+        "name": "方源嘉",
+        "email": "496311680@qq.com",
+        "mobile": "15515523553",
+        "github": "",
+        "zhihu": "",
+        "workExpYear": "",
+        "workPlace": "河南郑州",
+        "positionTitle": "GIS开发工程师"
+    },
+    "educationList": [
+        {
+            "edu_time": ["2021.09","2023.6"],
+            "school": "河南开封大学",
+            "major": "计算机应用技术",
+            "academic_degree": "大专",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [],
+    "workExpList": [
+        {
+            "company_name": "郑州晨华科技有限公司",
+            "department_name": "开发部",
+            "work_time": ["2012.11-"],
+            "work_desc": "1. 负责公司项目中关于地图功能的数据处理和展示工作。\n2. 负责公司项目中前端页面的开发。",
+            "dataIndex": 0
+        }
+    ],
+    "skillList": [
+        {
+            "skill_name": "GIS前端相关技术",
+            "skill_level": 80,
+            "skill_desc": "能熟练使用天地图,百度,高德,openlayers等地图接口进行二次开发;",
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "GIS软件和服务相关技术",
+            "skill_level": 50,
+            "skill_desc": "使用Arcgis,GeoServer,超图等软件进行原图校准和服务发布.了解 WMS,WFS,WMTS服务标准",
+            "dataIndex": 1
+        },
+        {
+            "skill_name": "JavaScript",
+            "skill_level": 80,
+            "skill_desc": "掌握js的基本语法，能够熟练使用数据类型，函数，对象。能熟练使用jquery,vue等框架"
+        },
+        {
+            "skill_name": "HTML+CSS",
+            "skill_level": 60,
+            "skill_desc": "熟悉W3C规范，掌握DIV+CSS布局，并结合Web标准准确还原设计图"
+        },
+        {
+            "skill_name": "C#,Asp.Net,SqlServer",
+            "skill_level": 60,
+            "skill_desc": "熟悉W3C规范，掌握DIV+CSS布局，并结合Web标准准确还原设计图"
+        }
+    ],
+    "projectList": [
+        {
+            "project_name": "广西梧州智慧社区项目",
+            "project_role": "GIS开发负责人",
+            "project_desc": "帮助政府实现对辖区的网格，小区，楼栋等基础信息的采集，汇总，展示的管理系统。",
+            "project_content": "1. 对2.5D地图数据使用Arcgis软件进行校准，发布服务，缓存切片 2. 利用Arcgis api for js结合基础数据在地图展示小区，楼栋，并根据不同的状态属性用颜色以区分以及查看楼栋的住户分布等功能，达到数据的直观展示效果",
+            "dataIndex": 0
+        },
+        {
+            "project_name": "漯河市源汇区高标准农田项目",
+            "project_role": "GIS开发负责人",
+            "project_desc": "方便政府实现对实验农田的数字化管理，收集农田数据，对农田设施进行日常的巡查维护",
+            "project_content": "本次使用geoserver发布切片服务，展示方面使用openlayers进行地图的加载和展示，主要功能是农田的范围展示，农田设施的位置以及日常巡查员的打卡和巡查轨迹展示。",
+            "dataIndex": 1
+        },
+        {
+            "project_name": "郑州经济开发区前程办事处智慧社区项目",
+            "project_role": "GIS开发负责人",
+            "project_desc": "帮助政府实现基础数据的收集管理和展示的后台管理系统",
+            "project_content": "本次项目使用cesium实现了试点小区的三维数据模型的加载展示；预设路线的飞行浏览；精确到楼层的定位展示以及有居家隔离的楼层标红展示等功能。"
+        },
+        {
+            "project_name": "郑州高新技术开发区底数摸查项目",
+            "project_role": "前端开发负责人",
+            "project_desc": "帮助客户实现基层数据的收集管理和展示的后台管理系统",
+            "project_content": "本次项目使用Vue-cli框架+Element-UI,结合Vuex,VueRouter,axios等实现用户状态管理，页面路由跳转，前后端的数据交换。使用echarts,data-v实现大数据页面的展示。地图方面本次使用天地图来实现各级机构热区的绘制和展示，实现重点人群，志愿者等特殊分布展示。"
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "\n    我个人比较善于学习和独立思考、工作积极向上，能积极配合团队开发项目，有较强的责任心，对工作认真负责。积极与同事沟通，交流技术心得，不断拓展技术领域，能够独立分析和解决工作中遇到的各种实际问题。\n    "
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
